@@ -1,6 +1,6 @@
 This tutorial will guide through the few steps to compile the Minko SDK **for Android** using the command line. Compiling the SDK for Android should work on Windows, OS X, Linux.
 
-To target Android, the Android [SDK](http://developer.android.com/sdk/index.html) and [NDK](https://developer.android.com/tools/sdk/ndk/index.html) must be installed. Both are free and available on all supported platforms. However, on Windows, **Cygwin** is an additional requirement. Though you can follow Google's [instructions](http://www.kandroid.org/ndk/docs/STANDALONE-TOOLCHAIN.html) regarding the installation of the toolchain, all necessary steps will be detailed here.
+To target Android, the Android [SDK](http://developer.android.com/sdk/index.html) and [NDK](https://developer.android.com/tools/sdk/ndk/index.html) must be installed. Both are free and available on all supported platforms. However, on Windows, **Cygwin** is an additional requirement. Do not install **Cygwin** now, step 2 of this tutorial will give more details about its installation. Though you can follow Google's [instructions](http://www.kandroid.org/ndk/docs/STANDALONE-TOOLCHAIN.html) regarding the installation of the toolchain, all necessary steps will be detailed here.
 
 Step 1: Get the sources
 -----------------------
